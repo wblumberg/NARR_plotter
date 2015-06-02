@@ -59,6 +59,8 @@ def cc(temp):
 def q2w(w):
     '''
         I really don't remember what this does.
+    
+        But it's important.
     '''
     return w/(1.+w) 
 
