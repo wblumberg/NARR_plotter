@@ -5,6 +5,6 @@ This program makes some cookie-cutter maps from NARR data in order to give the u
 
 Some of the maps that can be created:
 
-850, 700, 500, 300 mb
-surface data
-severe weather type maps.
+- 850, 700, 500, 300 mb
+- surface data
+- severe weather type maps.
